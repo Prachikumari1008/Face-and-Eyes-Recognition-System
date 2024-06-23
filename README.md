@@ -10,7 +10,7 @@ Visual Feedback: Detected faces and eyes are highlighted with rectangles on the 
 User-friendly Interface: Uses Streamlit to create an interactive and intuitive UI.
 
 ## Installation 
-1. git clone:  https://github.com/your-username/face-eye-detection-app.git
+1. git clone: https://github.com/Prachikumari1008/Face-and-Eyes-Recognition-System.git
 2. Navigate into the project directory: cd face-eye-detection-app
 3. Install dependencies: pip install -r requirements.txt
 
