@@ -29,3 +29,5 @@ Detected faces and eyes will be displayed in real-time on the webcam feed.
 Press "Stop" to end the webcam session.
 
 ## Demo 
+![image](https://github.com/Prachikumari1008/Face-and-Eyes-Recognition-System/assets/85853135/e72c9495-06a2-4bfa-83b8-0795a9e6d3e4)
+
